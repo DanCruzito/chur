@@ -83,7 +83,7 @@
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper h-screen">
       <!-- Slides -->
-      <div class="swiper-slide"><img class="object-cover object-center w-full" src="img/1.JPG" alt=""
+      <div class="swiper-slide"><img class="object-cover object-center w-full" src="img/1.png" alt=""
           style="height: 500px"></div>
       <div class="swiper-slide"><img class="object-cover object-center w-full" style="height: 500px" src="img/2.JPG"
           alt=""></div>
