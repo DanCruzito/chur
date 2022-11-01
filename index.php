@@ -28,7 +28,7 @@
           <a class="block text-teal-600" href="/">
             <span class="sr-only">Home</span>
 
-            <img src="/img/logo2.png" height="45" width="90" alt="">
+            <img src="img/logo2.png" height="45" width="90" alt="">
 
           </a>
         </div>
@@ -83,15 +83,11 @@
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper h-screen">
       <!-- Slides -->
-<<<<<<< HEAD
       <div class="swiper-slide"><img class="object-cover object-center w-full" src="img/1.png" alt=""
-=======
-      <div class="swiper-slide"><img class="object-cover object-center w-full" src="/img/1.JPG" alt=""
->>>>>>> 645b8a11c72309a0a0b6a220af810fca5d9377ca
           style="height: 500px"></div>
-      <div class="swiper-slide"><img class="object-cover object-center w-full" style="height: 500px" src="/img/2.JPG"
+      <div class="swiper-slide"><img class="object-cover object-center w-full" style="height: 500px" src="img/2.png"
           alt=""></div>
-      <div class="swiper-slide"><img class="object-cover object-center w-full" style="height: 500px" src="/img/3.JPG"
+      <div class="swiper-slide"><img class="object-cover object-center w-full" style="height: 500px" src="img/3.png"
           alt=""></div>
 
       ...
@@ -115,7 +111,7 @@
   <div class="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8 grid lg:grid-cols-3 gap-6">
     <!-- Producto 1 -->
     <a href="#" class="block rounded-lg p-4 shadow-sm shadow-indigo-100 bg-gray-200">
-      <img alt="Home" src="img/menu/1.JPEG" class="h-56 w-full rounded-md object-cover" />
+      <img alt="Home" src="img/menu/1.png" class="h-56 w-full rounded-md object-cover" />
 
       <div class="mt-2">
         <dl>
@@ -163,7 +159,7 @@
     </a>
     <!-- Producto 2 -->
     <a href="#" class="block rounded-lg p-4 shadow-sm shadow-indigo-100 bg-gray-200">
-      <img alt="Home" src="img/menu/2.JPEG" class="h-56 w-full rounded-md object-cover" />
+      <img alt="Home" src="img/menu/2.png" class="h-56 w-full rounded-md object-cover" />
 
       <div class="mt-2">
         <dl>
@@ -211,7 +207,7 @@
     </a>
     <!-- Producto 3 -->
     <a href="#" class="block rounded-lg p-4 shadow-sm shadow-indigo-100 bg-gray-200">
-      <img alt="Home" src="img/menu/3.JPEG" class="h-56 w-full rounded-md object-cover" />
+      <img alt="Home" src="img/menu/3.png" class="h-56 w-full rounded-md object-cover" />
 
       <div class="mt-2">
         <dl>
@@ -259,7 +255,7 @@
     </a>
     <!-- Producto 4 -->
     <a href="#" class="block rounded-lg p-4 shadow-sm shadow-indigo-100 bg-gray-200">
-      <img alt="Home" src="img/menu/4.JPEG" class="h-56 w-full rounded-md object-cover" />
+      <img alt="Home" src="img/menu/4.png" class="h-56 w-full rounded-md object-cover" />
 
       <div class="mt-2">
         <dl>
@@ -308,7 +304,7 @@
 
     <!-- Producto 5 -->
     <a href="#" class="block rounded-lg p-4 shadow-sm shadow-indigo-100 bg-gray-200">
-      <img alt="Home" src="img/menu/5.JPEG" class="h-56 w-full rounded-md object-cover" />
+      <img alt="Home" src="img/menu/5.png" class="h-56 w-full rounded-md object-cover" />
 
       <div class="mt-2">
         <dl>
@@ -357,7 +353,7 @@
 
     <!-- Producto 6 -->
     <a href="#" class="block rounded-lg p-4 shadow-sm shadow-indigo-100 bg-gray-200">
-      <img alt="Home" src="img/menu/6.JPEG" class="h-56 w-full rounded-md object-cover" />
+      <img alt="Home" src="img/menu/6.png" class="h-56 w-full rounded-md object-cover" />
 
       <div class="mt-2">
         <dl>
