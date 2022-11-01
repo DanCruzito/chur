@@ -28,7 +28,7 @@
           <a class="block text-teal-600" href="/">
             <span class="sr-only">Home</span>
 
-            <img src="img/logo2.png" height="45" width="90" alt="">
+            <img src="/img/logo2.png" height="45" width="90" alt="">
 
           </a>
         </div>
@@ -83,11 +83,11 @@
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper h-screen">
       <!-- Slides -->
-      <div class="swiper-slide"><img class="object-cover object-center w-full" src="img/1.JPG" alt=""
+      <div class="swiper-slide"><img class="object-cover object-center w-full" src="/img/1.JPG" alt=""
           style="height: 500px"></div>
-      <div class="swiper-slide"><img class="object-cover object-center w-full" style="height: 500px" src="img/2.JPG"
+      <div class="swiper-slide"><img class="object-cover object-center w-full" style="height: 500px" src="/img/2.JPG"
           alt=""></div>
-      <div class="swiper-slide"><img class="object-cover object-center w-full" style="height: 500px" src="img/3.JPG"
+      <div class="swiper-slide"><img class="object-cover object-center w-full" style="height: 500px" src="/img/3.JPG"
           alt=""></div>
 
       ...
